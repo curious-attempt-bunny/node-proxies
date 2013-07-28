@@ -1,0 +1,21 @@
+{
+  "name": "proxies",
+  "version": "0.0.0",
+  "description": "Use internet HTTP proxies from an online list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "proxy",
+    "proxies",
+    "http"
+  ],
+  "author": "Merlyn Albery-Speyer",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "~0.8.1",
+    "async": "~0.2.9"
+  }
+}
